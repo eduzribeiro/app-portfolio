@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 42677162,
+      "name": "acelerometro_m",
+      "owner": {
+        "login": "eduzribeiro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14336670?v=4"
+      },
+      "html_url": "https://github.com/eduzribeiro/acelerometro_m",
+      "stargazers_count": 2,
+      "language": "Java",
+      "description": "description"
+    },
+    {
+      "id": 517790504,
+      "name": "api-simulador-santander",
+      "owner": {
+        "login": "eduzribeiro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14336670?v=4"
+      },
+      "html_url": "https://github.com/eduzribeiro",
+      "stargazers_count": 5,
+      "language": "JSON",
+      "description": "description"
+    },
+    {
+      "id": 522288629,
+      "name": "api-soccer-news",
+      "owner": {
+        "login": "eduzribeiro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14336670?v=4"
+      },
+      "html_url": "https://github.com/eduzribeiro",
+      "description": "API do app Soccer News implementado no Santander Bootcamp",
+      "stargazers_count": 4,
+      "language": "Kotlin"
+    },
+    {
+      "id": 522226095,
+      "name": "app-cartao-visitas",
+      "owner": {
+        "login": "eduzribeiro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14336670?v=4"
+      },
+      "html_url": "https://github.com/eduzribeiro",
+      "description": "App Android nativo para a criação e listagem dos cartões, os quais podem ter os seguintes dados: nome, empresa, telefone de contato, email e cor de fundo.",
+      "stargazers_count": 4,
+      "language": "Kotlin"
+    },
+    {
+      "id": 515363261,
+      "name": "app-simulador-jogos",
+      "owner": {
+        "login": "eduzribeiro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14336670?v=4"
+      },
+      "html_url": "https://github.com/eduzribeiro",
+      "description": "App Android Nativo de simulação de partidas",
+      "stargazers_count": 3,
+      "language": "Kotlin"
+    }
+  ]
+}
